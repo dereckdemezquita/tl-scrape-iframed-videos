@@ -5,6 +5,7 @@
 
 links-backup.json
 
+# System files
 .DS_Store
 
 # Logs
