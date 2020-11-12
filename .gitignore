@@ -1,3 +1,7 @@
+# Custom ignores
+/helpers/scrape-video.links.txt
+/videos
+
 # Logs
 logs
 *.log
