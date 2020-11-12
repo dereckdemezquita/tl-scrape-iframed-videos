@@ -3,6 +3,8 @@
 /helpers/config-backup.js
 /videos/*
 
+links-backup.json
+
 .DS_Store
 
 # Logs
