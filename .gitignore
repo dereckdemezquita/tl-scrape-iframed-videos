@@ -1,6 +1,9 @@
 # Custom ignores
-/helpers/scrape-video.links.txt
-/videos
+/helpers/scrape-video-links.txt
+/helpers/config-backup.js
+/videos/*
+
+.DS_Store
 
 # Logs
 logs
