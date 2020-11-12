@@ -29,3 +29,9 @@ Run `index.js`. This writes the direct links to the videos to a `links.json` fil
 ```{bash}
 wget --content-disposition --trust-server-names -i links.json -P videos/
 ```
+
+## Copy exact selector
+
+<p align="center">
+    <img src="./figures/copy-selector.png" width="750">
+</p>
